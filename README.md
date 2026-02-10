@@ -1,2 +1,2 @@
-A bot I created that breakdown topics for you intelligently.
+A bot I created that breakdowns topics for you intelligently.
 Have fun!
